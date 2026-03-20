@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below."
+type: dataset
+title: "Poverty Rates by Country (1995-2023): Global Longitudinal Dataset"
+authors:
+  - family-names: "de la Serna Tuya"
+    given-names: "Juan Moisés"
+    orcid: "https://orcid.org/0000-0002-8401-8018"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+doi: "10.5281/zenodo.18984818"
+url: "https://doi.org/10.5281/zenodo.18984818"
+repository-code: "https://github.com/juanmoisesd/poverty-rates-by-country-1995-2023-global-longitudinal-dataset"
+license: CC0-1.0
+date-released: "2026-03-12"
+keywords:
+  - "poverty rates"
+  - "global poverty"
+  - "Gini coefficient"
+  - "HDI"
+  - "multidimensional poverty"
+  - "longitudinal dataset"
+  - "World Bank"
