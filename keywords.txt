@@ -1,0 +1,11 @@
+cc0, dataset, gini-coefficient, global-poverty, hdi, longitudinal-dataset, multidimensional-poverty, open-data, poverty-rates, world-bank, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
