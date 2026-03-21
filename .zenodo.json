@@ -1,0 +1,40 @@
+{
+  "title": "Comprehensive longitudinal dataset (1995-2023) on poverty rates across 30 countries in Sub-Saharan Africa, South Asia, East Asia, Latin America, MENA, and Europe/Central Asia. Variables: poverty rates at $1.90, $3.20, and $5.50/day thresholds, extrem",
+  "description": "Comprehensive longitudinal dataset (1995-2023) on poverty rates across 30 countries in Sub-Saharan Africa, South Asia, East Asia, Latin America, MENA, and Europe/Central Asia. Variables: poverty rates at $1.90, $3.20, and $5.50/day thresholds, extrem",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "gini-coefficient",
+    "global-poverty",
+    "hdi",
+    "longitudinal-dataset",
+    "multidimensional-poverty",
+    "open-data",
+    "poverty-rates",
+    "world-bank"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/poverty-rates-by-country-1995-2023-global-longitudinal-dataset",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
