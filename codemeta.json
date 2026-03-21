@@ -1,25 +1,50 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Poverty Rates by Country (1995-2023): Global Longitudinal Dataset",
-  "identifier": "10.5281/zenodo.18984818",
-  "url": "https://doi.org/10.5281/zenodo.18984818",
+  "@type": "SoftwareSourceCode",
+  "name": "Comprehensive longitudinal dataset (1995-2023) on poverty rates across 30 countries in Sub-Saharan Africa, South Asia, East Asia, Latin America, MENA, and Europe/Central Asia. Variables: poverty rates at $1.90, $3.20, and $5.50/day thresholds, extrem",
+  "description": "Comprehensive longitudinal dataset (1995-2023) on poverty rates across 30 countries in Sub-Saharan Africa, South Asia, East Asia, Latin America, MENA, and Europe/Central Asia. Variables: poverty rates at $1.90, $3.20, and $5.50/day thresholds, extrem",
+  "url": "https://github.com/juanmoisesd/poverty-rates-by-country-1995-2023-global-longitudinal-dataset",
+  "codeRepository": "https://github.com/juanmoisesd/poverty-rates-by-country-1995-2023-global-longitudinal-dataset",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "poverty rates",
-    "global poverty",
-    "Gini coefficient",
-    "HDI",
-    "multidimensional poverty",
-    "longitudinal dataset",
-    "World Bank"
-  ]
+    "cc0",
+    "dataset",
+    "gini-coefficient",
+    "global-poverty",
+    "hdi",
+    "longitudinal-dataset",
+    "multidimensional-poverty",
+    "open-data",
+    "poverty-rates",
+    "world-bank",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
